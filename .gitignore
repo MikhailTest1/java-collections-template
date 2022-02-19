@@ -1,2 +1,14 @@
-.idea/
-target/
+# Default ignored files
+/shelf/
+/workspace.xml
+*.xml
+*.log
+/*.iml
+/*.ipr
+/*.iws
+/out
+*.jar
+*.war
+/out/*.*
+/.idea
+/.tmp
